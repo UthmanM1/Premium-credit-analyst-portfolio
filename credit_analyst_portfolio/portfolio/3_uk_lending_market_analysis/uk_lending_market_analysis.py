@@ -4,7 +4,7 @@ UK Unsecured Lending Market Analysis
 Analysing market dynamics, pricing trends, and portfolio performance
 in the UK personal loans & credit card market.
 
-Author: [Your Name]
+Author: Uthman Mustapha
 Data Sources: Bank of England, FCA, UK Finance (simulated for portfolio)
 """
 
