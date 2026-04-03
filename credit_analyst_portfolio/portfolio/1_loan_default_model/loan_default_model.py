@@ -4,7 +4,7 @@ Loan Default Prediction Model
 Credit Risk Scoring using Logistic Regression, Decision Tree & Random Forest
 Dataset: Lending Club public loan data (simulated for portfolio demonstration)
 
-Author: [Your Name]
+Author: Uthman Mustapha
 Purpose: Credit Analyst Portfolio — Monzo Application
 """
 
