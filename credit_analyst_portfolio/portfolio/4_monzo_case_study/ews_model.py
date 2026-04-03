@@ -4,7 +4,7 @@ Monzo Early Warning System (EWS) — Proof of Concept
 Demonstrates the behavioural early warning model proposed
 in the case study using simulated transactional data.
 
-Author: [Your Name]
+Author: Uthman Mustapha
 """
 
 import pandas as pd
