@@ -1,7 +1,7 @@
 # Monzo Lending Strategy Case Study
 ## A Data-Driven Analysis & Strategic Proposal
 
-**Author:** [Your Name]  
+**Author:** Uthman Mustapha
 **Date:** April 2025  
 **Purpose:** Credit Analyst Portfolio — Strategic Analysis Exercise
 
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Monzo has grown from a prepaid card to a full-service bank with over 9 million UK customers. Its lending portfolio — covering personal loans, overdrafts, and credit cards — represents both a significant revenue opportunity and a key risk management challenge.
+Monzo has grown from a prepaid card to a full-service bank with over 9 million UK customers. Its lending portfolio covering personal loans, overdrafts, and credit cards, represents both a significant revenue opportunity and a key risk management challenge.
 
 This case study analyses Monzo's current lending position, identifies strategic opportunities, and proposes a data-driven approach to improving credit underwriting outcomes. The central recommendation is a **risk-tiered dynamic pricing model** combined with an **early intervention framework** that uses behavioural transaction data — a capability uniquely available to Monzo as a primary bank account provider.
 
