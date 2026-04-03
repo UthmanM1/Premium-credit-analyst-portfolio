@@ -5,7 +5,7 @@ Generates a synthetic lending database, runs all portfolio
 analysis queries, and exports results as CSVs ready for
 Looker Studio / Power BI visualisation.
 
-Author: [Your Name]
+Author: Uthman Mustapha
 """
 
 import sqlite3
