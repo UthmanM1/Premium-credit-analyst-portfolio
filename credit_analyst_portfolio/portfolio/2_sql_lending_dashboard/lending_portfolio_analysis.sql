@@ -1,6 +1,6 @@
 -- ============================================================
 -- SQL LENDING PORTFOLIO ANALYSIS DASHBOARD
--- Credit Analyst Portfolio | Author: [Your Name]
+-- Credit Analyst Portfolio | Author: Uthman Mustapha
 -- ============================================================
 -- Purpose: Analyse a personal loans portfolio across cohort
 -- performance, delinquency, NPV, and pricing dynamics.
