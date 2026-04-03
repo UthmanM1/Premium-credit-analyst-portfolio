@@ -3,7 +3,9 @@
 > Data-driven credit risk & lending analytics projects — built to demonstrate skills for a Credit Analyst role in fintech/consumer lending.
 
 **Author:** Uthman Mustapha 
+
 **Target Role:** Credit Analyst — Monzo (Borrowing Team)  
+
 **Skills:** SQL · Python · Excel · Looker/BI · Credit Risk · Lending Economics
 
 ---
